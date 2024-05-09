@@ -13,7 +13,7 @@ void pressEnterToContinue() {
 }
 
 int main() {
-	string filename;
+	string filename; 
 	cout << "Enter filename: ";
 	cin >> filename;
 
